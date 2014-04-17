@@ -12,6 +12,7 @@
   "author": "Volkan Özçelik",
   "license": "MIT",
   "dependencies": {
-    "o2.then": "~0.2.2"
+    "o2.then": "~0.2.2",
+    "q": "^1.0.1"
   }
 }
